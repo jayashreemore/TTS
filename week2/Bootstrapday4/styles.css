@@ -1,0 +1,11 @@
+<div id="content">
+    <h1>My Awesome Site</h1>
+    <p>You'll find some really cool stuff here.</p>
+</div>
+
+#content {
+    width: 800px;
+    background: #fff;
+  }
+
+  
